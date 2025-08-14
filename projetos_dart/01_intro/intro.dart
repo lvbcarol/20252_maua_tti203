@@ -12,7 +12,7 @@ void main() {
   outroNome = "JOAO";
   var outroNome = null; //variável que pode ser alterada, mas não pode ser redeclarada
   print(outroNome); // saída: null
-  //ver se tudo isso está certo. testar e ler a diferença entre final e const*/
+  //ver se tudo isso está certo. testar e ler a diferença entre final e const.*/
 
 
 
